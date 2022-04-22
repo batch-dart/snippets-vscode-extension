@@ -1,2 +1,3 @@
-# snippets-vscode-extension
-A Visual Studio Snippet extension for Batch.dart Developers.
+# README
+
+A set of helpful Flutter and Dart snippets for day to day [Batch.dart](https://github.com/batch-dart/batch.dart) development.

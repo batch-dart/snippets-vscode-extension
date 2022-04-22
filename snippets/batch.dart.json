@@ -1,0 +1,7 @@
+{
+  "Initialize Batch Application snippet": {
+    "prefix": "init-batch-app",
+    "description": "Insert a initialized batch application",
+    "body": []
+  }
+}
